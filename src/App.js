@@ -5,6 +5,7 @@ import DisplayDetails from './components/displayDetails';
 
 
 
+
 function App() {
 
 

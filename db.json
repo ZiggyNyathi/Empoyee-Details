@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1
+    },
+    {
+      "EmployeeName": "ziggy",
+      "EmployeeSurname": "nyathi",
+      "EmployeeEmail": "ziggynyathi091@gmail.com",
+      "EmployeeBio": "trust the process",
+      "EmployeeImage": "",
+      "EmployeeDate": "2023-06-06",
+      "EmployeePosition": "ceo",
+      "EmployeeNumber": "9654626",
+      "id": 2
+    },
+    {
+      "EmployeeName": "ziggy",
+      "EmployeeSurname": "nyathi",
+      "EmployeeEmail": "ziggynyathi091@gmail.com",
+      "EmployeeBio": "trust the process",
+      "EmployeeImage": "C:\\fakepath\\d01ac46bf3e87ccfa2f3e2d757e59822.jpg",
+      "EmployeeDate": "2023-06-06",
+      "EmployeePosition": "ceo",
+      "EmployeeNumber": "9654626",
+      "id": 3
+    },
+    {
+      "EmployeeName": "fguybuho",
+      "EmployeeSurname": "hgyygydt",
+      "EmployeeEmail": "",
+      "EmployeeBio": "cfcfcg@hghg",
+      "EmployeeImage": "",
+      "EmployeeDate": "",
+      "EmployeePosition": "",
+      "EmployeeNumber": "",
+      "id": 4
+    }
+  ]
+}
