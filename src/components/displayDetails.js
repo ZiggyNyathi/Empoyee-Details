@@ -1,7 +1,7 @@
 function DisplayDetails (props)
 {
     return (
-        <div>
+        <div className="container2">
                <h3>Employee Details</h3>
                {props.Employee.map((data)=>(
                 <div>

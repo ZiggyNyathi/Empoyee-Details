@@ -47,15 +47,15 @@ fetch('  http://localhost:8000/posts',{
     return (
         <div>
 
- <div> 
+ 
    <div className='logo'> 
    <img src={logo} alt="logo"/>
-</div>
-</div>   
+   </div>
+   
 
 <div>
   <h3>Register a new account</h3>
-  <input type ='text' placeholder='Name' onChange={(event)=>setEmployeeName(event.target.value)}/><br></br>
+      <input type ='text' placeholder='Name' onChange={(event)=>setEmployeeName(event.target.value)}/><br></br>
       <input type='text' placeholder='surname' onChange={(event)=>setEmployeeSurname(event.target.value)}/><br></br>
       <input type='email' placeholder='email address' onChange={(event)=>setEmployeeEmail(event.target.value)}/><br></br>
       <input type='text' placeholder='bio' onChange={(event)=>setEmployeeBio(event.target.value)}/><br></br>
